@@ -1,4 +1,4 @@
-Live Link - 
+Live Link - https://study-notion-project-pi.vercel.app/
 
 Know more about this project - https://docs.google.com/document/d/19OZY8J9eDFGxU7w-xrXKS89KYI7EmWqz/edit
 
