@@ -1,6 +1,6 @@
 Live Link - https://study-notion-project-pi.vercel.app/
 
-Know more about this project - https://docs.google.com/document/d/19OZY8J9eDFGxU7w-xrXKS89KYI7EmWqz/edit
+Know more about this project - https://docs.google.com/document/d/14IQRonG347XgcYpmrRw8XTIJYoXUPxS2/edit?usp=drive_link&ouid=100566447223856100615&rtpof=true&sd=true
 
 #About  React & Tailwind CSS Starter Pack
 
