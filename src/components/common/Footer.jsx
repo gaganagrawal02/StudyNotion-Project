@@ -43,7 +43,7 @@ export const Footer = () => {
               <h4>Contact us</h4>
               <ul>
                 <li>
-                  <a href="mailto:horrorj18@gmail.com?body=fell free to type">
+                  <a href="gagan02agrawal@gmail.com?body=fell free to type">
                     Gmail
                   </a>
                 </li>
